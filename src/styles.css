@@ -1,0 +1,31 @@
+/* Whatever */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+div {
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0.3em 0;
+  font-size: 300%;
+}
